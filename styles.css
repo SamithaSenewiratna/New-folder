@@ -34,7 +34,7 @@ footer {
 /* Hero Section */
 .hero-section {
     height: 100vh;
-    background: url('/picture/backiee-301721-landscape.jpg') no-repeat center center/cover;
+    background: url('picture/backiee-301721-landscape.jpg') no-repeat center center/cover;
     color: rgb(73, 72, 72);
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     position: relative;
